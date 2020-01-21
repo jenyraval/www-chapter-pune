@@ -57,3 +57,6 @@ Previous Meetup Information
     2.  XXE Exploitation by [Nirav
         Patel](https://twitter.com/nirav4peace)
         ([Slides](/www-pdf-archive/File:XXE_Exploitation.pdf))
+   - Our 4th Meetup was on 11th January, 2020:
+     1. Secure Coding Proactive Controls by [Prasad
+        Salvi](https://twitter.com/prasad_salvi)([Slides](/www-pdf-archive/File:Secure_Coding_Proactive_Controls-Prasad_Salvi.pdf))
